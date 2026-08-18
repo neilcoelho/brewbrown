@@ -8,6 +8,7 @@ body {
     background-color: #e6c570;
     color: #512615;
     display: flex;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
     justify-content: center;
     align-items: center;
     min-height: 95vh;
