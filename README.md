@@ -1,2 +1,2 @@
 # brewbrown
-A simple website for brewbrown.com
+A simple blog website for brewbrown.com and it's all about coffee.
