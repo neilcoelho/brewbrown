@@ -7,7 +7,6 @@ html {
 body {
     background-color: #e6c570;
     color: #512615;
-    display: flex;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     justify-content: center;
     align-items: center;
@@ -17,4 +16,12 @@ body {
 a {
     text-decoration: none;
     color: #512615;
+}
+
+nav {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0em 5em 0em 5em;
+    justify-content: center;
 }
