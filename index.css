@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-color: #e6c570;
+    background-color: #fffaed;
     color: #512615;
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     justify-content: center;
@@ -24,6 +24,18 @@ nav {
     padding: 0px;
     margin: 0em 5em 0em 5em;
     justify-content: center;
+}
+
+nav a {
+    height: 50px;
+}
+
+nav a:hover {
+    background-color: bisque;
+}
+
+nav li:first-child {
+    margin-right: auto;
 }
 
 .comingSoon {
