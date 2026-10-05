@@ -10,7 +10,7 @@ body {
     font-family: Tahoma, Geneva, Verdana, sans-serif;
     justify-content: center;
     align-items: center;
-    min-height: 95vh;
+    min-height: 100vh;
 }
 
 a {
@@ -24,4 +24,14 @@ nav {
     padding: 0px;
     margin: 0em 5em 0em 5em;
     justify-content: center;
+}
+
+.comingSoon {
+    min-width: 100vw;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 650;
+    font-size: 3em;
 }
